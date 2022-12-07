@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Seja bem-vindo ao NathanFlix!
+## Projeto utilizado para aplicar conhecimentos em JS envolvendo React e utilizando NPM. A proposta é consumir uma API de filmes e utilizar para listar os principais lançamentos, trazendo informações dos mesmos e o trailer. Além disso, é possível criar uma lista com os filmes favoritos.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
